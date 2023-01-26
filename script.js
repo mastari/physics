@@ -11,7 +11,7 @@ function setup() {
   ox = (windowWidth) / 2;
   oy = (windowHeight) / 2;
   scale = 20;
-}
+}//
 
 
 function axis() {
